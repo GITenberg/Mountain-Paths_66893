@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '736'
     url: http://www.gutenberg.org/2009/agents/736
     wikipedia: https://en.wikipedia.org/wiki/Alexander_Teixeira_de_Mattos
+covers:
+- cover_type: archival
+  image_path: 66893-h/images/cover.jpg
 creator:
   author:
     agent_name: Maeterlinck, Maurice
@@ -25,6 +28,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Maurice_Maeterlinck
     - https://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66893#Mountain-Paths
 gutenberg_issued: '2021-12-07'
 identifiers:
   gutenberg: '66893'
